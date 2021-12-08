@@ -75,6 +75,10 @@ a {
   font-size: 2rem;
 }
 
+.g {
+  gap: 1.5rem;
+}
+
 .jc-sb {
   justify-content: space-between;
 }
@@ -129,8 +133,8 @@ a {
     flex-grow: 1;
   }
 
-  .fg-3\@lrg {
-    flex-grow: 3;
+  .fg-4\@lrg {
+    flex-grow: 4;
   }
 
   .ml\@lrg {
